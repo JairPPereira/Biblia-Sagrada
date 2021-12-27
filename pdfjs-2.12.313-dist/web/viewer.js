@@ -72,7 +72,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "biblia.pdf",
+    value: "holy-bible-83800-por.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
